@@ -1,0 +1,3 @@
+Esta pasta contempla todo o material resultante do curso 1 da Formação em C++ da Alura.
+
+Todos os códigos estão exatamente iguais os feitos no projeto do curso pois eu não implementei de fato apenas fiz o download e armazenei nesta pasta. Isso se dá ao fato de que este primeiro curso era muito básico para mim que ja estudo a linguagem, então acompanhei as aulas apenas assistindo. Quando chegar em algum curso de C++ que de fato eu veja conceitos da linguagem que eu não tenha o conhecimento prévio ai sim começo a implementar junto do instrutor.
